@@ -5,7 +5,7 @@
 ##  Preview
 
 ###  Fake Loader  1
-![Mod Menu 1](https://i.imgur.com/paQkXzn.png)
+![Mod Menu 1](https://i.imgur.com/8j5y1wd.png)
 
 ### Fake Loader  2
 ![Mod Menu 2](https://i.imgur.com/Cot4DMD.png)
