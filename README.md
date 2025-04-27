@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/37acef3c-4dda-4293-850f-607cc608cdfc)# Fake Loader – For Educational Purposes Only! 
+# Fake Loader – For Educational Purposes Only! 
 
 **WARNING:** This is a **Fake Loader** that simulates the launch of a fake Mod Menu on the screen. **It does not modify games, provide real advantages, or should be used to deceive anyone!** Created purely for fun and educational purposes.
 
