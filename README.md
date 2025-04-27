@@ -14,7 +14,7 @@
 ![Mod Menu 3](https://i.imgur.com/gjEanQ6.png)
 
 ### Fake Loader  4
-![Mod Menu 4](https://media.discordapp.net/attachments/1337633993884958730/1353186570374615052/image.png?ex=680a43f3&is=6808f273&hm=cd720a122f2a4919e0c3e98aeddd492f13c034f79f9ccc44aa6912689c971d96&=&format=webp&quality=lossless&width=974&height=639)
+![Mod Menu 4](https://i.imgur.com/pp6Tfka.png)
 
 
 💀 **Remember: This is for educational purposes only and not to promote the addition of any of these fake loaders to any malware or anything unethical.** 💀
